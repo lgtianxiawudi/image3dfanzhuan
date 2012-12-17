@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="alterdialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:background">@drawable/chat_loadmore_bg_nor</item>
+        <item name="android:windowNoTitle">true</item>  
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    
+</resources>
